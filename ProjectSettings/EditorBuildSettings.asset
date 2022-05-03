@@ -5,7 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/Real-time Positioning System/Scenes/SampleScene.unity
+  - enabled: 0
+    path: Assets/Racing Starter Kit/Scenes/SampleScene.unity
     guid: adc28652a668a9646b0352d63f41b808
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: da57b20d325793a40b5db4bf4a3ed906
+  - enabled: 1
+    path: Assets/Scenes/Map.unity
+    guid: 3dd284f38863bdc4ea1ab8103bc49798
   m_configObjects: {}
